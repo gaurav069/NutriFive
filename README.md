@@ -1,1 +1,2 @@
 # NutriFive
+In today’s health-conscious world, managing dietary habits effectively is crucial yet challenging due to the complexities of tracking food intake and understanding nutritional values. NutriFive addresses these challenges by providing an integrated, user-friendly platform that simplifies dietary tracking. With features such as food search, nutritional information display, daily intake logging, historical data review, and data visualization through pie charts, NutriFive enhances the user experience and supports informed, personalized dietary decisions.
